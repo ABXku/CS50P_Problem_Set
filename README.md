@@ -2,3 +2,6 @@
 <p align="center">
   <img src="https://pll.harvard.edu/sites/default/files/styles/16_9_large/public/course/CS50P_pll.png?itok=ZBkgBrNn" />
 </p>
+  CS50P is a free Python course delivered by Harvard University. The course itself teaches almost everything you should know to be able to use the Python programming language. Moreover, it comes with nine problem sets to get your hands dirty. Hat tip to Prof.David J. Malan and the CS50 team, who provide this invaluable course.
+## :warning: Disclaimer:
+  
