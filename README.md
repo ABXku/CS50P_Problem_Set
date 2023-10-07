@@ -1,2 +1,2 @@
 # CS50P_Problem_Set
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpll.harvard.edu%2Fsites%2Fdefault%2Ffiles%2Fcourse%2FCS50P_pll.png&tbnid=7iQ0W7OEoSvJ0M&vet=12ahUKEwjD-Pbpo-SBAxXa5TgGHeR8BDkQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fpll.harvard.edu%2Fcourse%2Fcs50s-introduction-programming-python&docid=zlAdPE_Bq6o2BM&w=530&h=315&q=cs50p&client=safari&ved=2ahUKEwjD-Pbpo-SBAxXa5TgGHeR8BDkQMygAegQIARBL)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://pll.harvard.edu/sites/default/files/styles/16_9_large/public/course/CS50P_pll.png?itok=ZBkgBrNn)
